@@ -62,6 +62,18 @@
 
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.*
 
+![VirtualBox_Ubu2204_1_25_02_2025_18_27_04](https://github.com/user-attachments/assets/5ff08b13-af95-4533-ad5a-198c1399f976)
+![VirtualBox_Ubu2204_1_25_02_2025_23_19_48](https://github.com/user-attachments/assets/d823f02c-4f47-49a1-a5fc-7381f1c2d6ad)
+![VirtualBox_Ubu2204_1_25_02_2025_23_31_28](https://github.com/user-attachments/assets/bcb0197b-2624-4f20-93db-2cc12490914f)
+![VirtualBox_Ubu2204_1_25_02_2025_23_36_14](https://github.com/user-attachments/assets/d73ba14f-9308-4c8e-b81e-7c62d6918788)
+![VirtualBox_Ubu2204_1_25_02_2025_23_49_13](https://github.com/user-attachments/assets/ce4f2f90-770a-457f-8a1f-8ed7dfa58bf4)
+![VirtualBox_Ubu2204_1_25_02_2025_23_53_49](https://github.com/user-attachments/assets/b2c0dff6-e38f-424b-bd50-040e7f33313d)
+![VirtualBox_Ubu2204_1_26_02_2025_00_12_36](https://github.com/user-attachments/assets/ac7439bc-15ab-4a1a-8d2c-c18c340dd3c6)
+![VirtualBox_Ubu2204_1_26_02_2025_03_04_02](https://github.com/user-attachments/assets/1eb9a075-b563-4fc9-86e3-aa2ae1186fcf)
+![VirtualBox_Ubu2204_1_26_02_2025_03_32_05](https://github.com/user-attachments/assets/2a78a3bf-dd8d-4a80-b3ac-890b38884390)
+![VirtualBox_Ubu2204_1_26_02_2025_03_37_22](https://github.com/user-attachments/assets/11bf295b-cd30-4fe3-880d-0cc1857461be)
+![VirtualBox_Ubu2204_1_26_02_2025_03_45_40](https://github.com/user-attachments/assets/78f6b517-0ac9-438a-bc05-aef3ea47f0f5)
+
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
